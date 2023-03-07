@@ -6,13 +6,13 @@ ORDER BY
 	3,
 	4
 
---SELECT
---	*
---FROM
---	PortfolioProject..CovidVaccinations
---ORDER BY
---	3,
---	4
+SELECT
+	*
+FROM
+	PortfolioProject..CovidVaccinations
+ORDER BY
+	3,
+	4
 
 -- Select Data that we are going to be using
 
