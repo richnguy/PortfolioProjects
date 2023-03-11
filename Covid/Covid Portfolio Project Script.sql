@@ -221,3 +221,5 @@ WHERE
 
 SELECT *
 FROM PercentPopulationVaccinated
+
+--
